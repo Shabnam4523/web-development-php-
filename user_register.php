@@ -66,6 +66,7 @@
             </div>
         </div>
         <div class="row ">
+
             <!-- <div class="col-md-6 ">
                 <select name="social_media" class="form-control multi-select" multiple>
                     <option value="" disabled selected>Choose social media you are active at</option>
@@ -78,6 +79,7 @@
                     <option>Others</option>
                 </select>
             </div> -->
+            
             <div class="col-md-6 my-2">
                 <input type="text"name="social_link" placeholder="Enter social media link" required="" class="form-control">
             </div>
