@@ -21,7 +21,7 @@
                 <input type="email"  pattern="[a-z0-9._]+@+[a-z]+.com" name="email" placeholder="Enter email" class="form-control" required="">
             </div>
             <div class="col-md-6 my-2">
-                <input type="password" name=" password" placeholder=" Enter password"  class="form-control" max="8" min="6" required="">
+                <input type="password" name="password" placeholder=" Enter password"  class="form-control" max="8" min="6" required="">
             </div>
         </div>
         <div class="row">
